@@ -1,0 +1,26 @@
+<div class="col-md-6 offset-md-3 mt-5">
+
+
+  <div class="card">
+    <div class="card-body">
+
+      <div *ngIf="!urlParams">
+        Inserisci richiesta di recupero pwd
+      </div>
+
+      <div *ngIf="urlParams">
+        gestione della richiesta fatta
+
+      </div>
+
+
+      <div>
+        <a href="#" routerLink="/login">Accedi</a>
+      </div>
+      <div>
+        <a href="#" routerLink="/register">Registrati</a>
+      </div>
+    </div>
+  </div>
+</div>
+

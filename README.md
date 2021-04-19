@@ -1,19 +1,30 @@
-# FantaF1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+# Project Title
 
-## Development server
+Web App Angular per la gestione del FantaF1
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Logo](https://firebasestorage.googleapis.com/v0/b/servicemanager-4e678.appspot.com/o/fantaf1.png?alt=media&token=dc445b4e-6758-46e5-b6b7-6a6c0a514ed3)
 
-## Code scaffolding
+    
+## Environment Variables
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To run this project, you will need to add the following environment variables to your .env file
 
-## Build
+`API_KEY`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+`ANOTHER_API_KEY`
 
-## informazioni sul progetto
+## package utilizzati
+ngx-cookie-service => gestione dei cookie 
 
-CSS progetto : Bootstrap
+  
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+  
+## Authors and Acknowledgement
+
+- [@katherinepeterson](https://www.github.com/katherinepeterson) for development and design.
+
+  

@@ -3,7 +3,13 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  URL_API: 'http://localhost:5000/api/',
+  NAME_APP: 'localhost',
+  adsense: {
+    adClient: 'ca-pub-9594149854520291',
+    show: true
+ }
 };
 
 /*

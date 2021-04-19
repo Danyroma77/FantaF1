@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RecoverypwdComponent implements OnInit {
 
+  urlParams: string;
+
   constructor() { }
 
   ngOnInit(): void {
